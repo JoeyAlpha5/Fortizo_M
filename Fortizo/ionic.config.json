@@ -1,0 +1,7 @@
+{
+  "name": "Fortizo",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

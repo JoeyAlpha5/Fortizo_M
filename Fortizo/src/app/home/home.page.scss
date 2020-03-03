@@ -1,0 +1,60 @@
+div#top {
+    width: 100%;
+    height: 35%;
+    background: linear-gradient(157deg, #3c51a3, #ef496c);
+    text-align: -webkit-center;
+}
+
+#logo{
+    content: url(./fortizo-06.png);
+    width: 100px;
+    margin-top: 15%;
+}
+
+div#menu {
+    width: 100%;
+    height: auto;
+    text-align: -webkit-center;
+    display: flex;
+    padding-left: 12%;
+}
+
+div#menuItem {
+    width: 120px;
+    height: 120px;
+    background: linear-gradient(157deg, #3c51a3, #ef496c);
+    margin-left: 10px;
+    margin-top: 20px;
+    border-radius: 7px;
+}
+
+#scanAirtime{
+    content: url(./scan.png);
+}
+
+#buyData{
+    content: url(./transfer.png);
+}
+
+#checkBalance{
+    content:url(./balance.png);
+}
+
+#customerCare{
+    content:url(./cc.png);
+}
+
+.icon {
+    margin-top: 10px;
+}
+
+div#menuItem p {
+    color: white;
+    font-size: 13px;
+}
+
+@media screen and (min-width:411px){
+    div#menu{
+        padding-left: 21%;
+    }
+}

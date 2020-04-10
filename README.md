@@ -2,4 +2,4 @@
 
 Scan QR Code Airtime Vouchers To Recharge
 
-![alt text](https://github.com/JoeyAlpha5/Fortizo_M/blob/master/Screenshot_20200410-221901_Fortizo.jpg)
+![alt text](https://res.cloudinary.com/jalome/image/upload/h_503,c_scale/Screenshot_20200410-221901_Fortizo.jpg)

@@ -1,4 +1,4 @@
-# Fortizo_M
+# Fortizo_M (Android & iOS App)
 
 Scan QR Code Airtime Vouchers To Recharge
 

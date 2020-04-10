@@ -1,3 +1,3 @@
 # Fortizo_M
 
-Scan QR Code Airtime Vouchers
+Scan QR Code Airtime Vouchers To Recharge

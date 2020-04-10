@@ -23,7 +23,7 @@ export class HomePage {
 
     this.sim.getSimInfo().then(
       (info) => {
-        this.carrier = info.carrierName.toLowerCase();
+        this.carrier = info.cards[0].carrierName.toLowerCase();
         this.country = info.countryCode;
         console.log('Sim info: ', info)
     
